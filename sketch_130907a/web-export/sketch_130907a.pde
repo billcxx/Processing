@@ -35,3 +35,4 @@ void setColor(color Color, int Alpha, int StrokeWeight){
 	fill(Color,Alpha);
 	strokeWeight(StrokeWeight);
 }
+
